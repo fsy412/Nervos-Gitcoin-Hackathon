@@ -1,4 +1,4 @@
-# Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+# Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 
 1. Screenshot of accounts:
 ![pic](https://github.com/fsy412/Nervos-Gitcoin-Hackathon/blob/main/task_1/accounts.png?raw=true)

@@ -1,4 +1,4 @@
-# Nervos-Hakathon-Task-7
+# Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
 
 1. Screenshots or video of your application running on Godwoken.
 ![image](1.png)

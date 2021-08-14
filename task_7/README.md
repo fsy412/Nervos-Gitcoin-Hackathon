@@ -6,7 +6,7 @@
 
 2. Link to the GitHub repository with your application which has been ported to Godwoken.
 
-    https://github.com/chaitanyasjoshi/social-network-dapp-polyjuice
+    https://github.com/fsy412/Nervos-Gitcoin-Hackathon/tree/main/task_7/v3port
 
 3. Transaction hash of the deployment transaction.
 ```

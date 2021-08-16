@@ -13,4 +13,4 @@
 1. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 ---
 
-Github Link: https://[github.com/kidneyweakx/blockchain-workshop/tree/nervos-task8](https://github.com/fsy412/nervos_task8)
+Github Link: https://[https://github.com/fsy412/nervos_task8](https://github.com/fsy412/nervos_task8)

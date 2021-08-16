@@ -14,5 +14,5 @@ Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 ![](checkout_blance.png)
 
 ## 4.The Ethereum address that was checked (in text format).
-```0xAF266d7a48519EAe52539ad7c04Ca8Bfb8Db3E87```
+```0x1dF49723645a34E6ff2Fca13860C512c9fE1c9A8```
 

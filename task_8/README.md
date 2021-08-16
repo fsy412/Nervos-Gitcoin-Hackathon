@@ -8,5 +8,5 @@
 0xAF266d7a48519EAe52539ad7c04Ca8Bfb8Db3E87
 ```
 
-1. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
+3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 Github Link: [https://github.com/fsy412/nervos_task8](https://github.com/fsy412/nervos_task8)

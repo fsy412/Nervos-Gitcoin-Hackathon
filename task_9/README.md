@@ -4,6 +4,7 @@ Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 ![](1.png)
 
+
 ## 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 
 ```0x1dF49723645a34E6ff2Fca13860C512c9fE1c9A8```

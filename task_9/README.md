@@ -1,4 +1,4 @@
-# Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+# Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
 
 ## 1. A screenshot of the console output immediately after running the withdraw command.
 
